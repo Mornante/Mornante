@@ -1,7 +1,3 @@
-<img src="./assets/illustrations/20945431.jpg" alt="icon" width="100%"/>
-
-</br>
-
 # Hello! 👋 Who am I? #
 
 Intermediate Software Developer aiming to become an Solutions Architect.
@@ -210,20 +206,7 @@ Let's connect to discuss technology trends, share insights, and explore potentia
 
 </br>
 
-<div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
-        <tr>
-            <td align="center" width="40%">
-                <img src="./assets/illustrations/20943563.jpg" alt="icon" width="100%"/>
-            </td>
-            <td align="center" width="60%">
-                <h3>
-                    Attributions for all the amazing icons, illustrations and media used on this README
-                </h3>
-            </td>
-        </tr>
-    </table>
-</div>
+# Attributions for all the amazing icons, illustrations and media used on this README
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -249,10 +232,8 @@ Let's connect to discuss technology trends, share insights, and explore potentia
                 <a href="https://www.freepik.com/icon/python_5968350#fromView=search&page=1&position=8&uuid=294596ae-aead-4e49-a073-1bf397f29839">Icon by Freepik</a>
             </td>
             <td align="center">
-                <a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
             </td>
             <td align="center">
-                <a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
             </td>
             <td align="center">
             </td>
