@@ -167,7 +167,7 @@ Let's connect to discuss technology trends, share insights, and explore potentia
 # ☁️ Cloud Platforms
 
 <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
+    <table align="center" style="border: none !important;">
         <tr>
             <td align="center">
                 <img src="" alt="icon" width="65" height="65" />
