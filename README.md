@@ -1,4 +1,11 @@
-# Hello! 👋 Who am I? #
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+# Hello! 👋 I am Mornanté Basson #
+
+<p align="left"> 
+    <img 
+        src="https://komarev.com/ghpvc/?username=mornante&label=Profile%20views&color=0e75b6&style=flat" alt="mornante" /> 
+</p>
 
 Intermediate Software Developer aiming to become an Solutions Architect.
 
@@ -7,99 +14,88 @@ Intermediate Software Developer aiming to become an Solutions Architect.
 - My passion for Azure extends beyond the code.
 - I'm committed to staying at the forefront of Azure innovations, continuously improving my skills, and helping businesses maximize their potential in the cloud.
 
-</br>
-
 Having successfully designed and implemented solutions, I am now directing my focus towards cutting-edge technologies.
-
-</br>
 
 Let's connect to discuss technology trends, share insights, and explore potential collaborations. Feel free to reach out for meaningful tech discussions and networking opportunities!
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" 
+alt="e" 
+width="100%">
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2px;">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mornante&show_icons=true&locale=en&layout=compact" 
+        style="width: 48%;">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=mornante&show_icons=true&locale=en"
+        style="width: 48%;">
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mornante&"  
+        style="width: 100%;">
+</div>
+
 </br>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" width="100%">
 
-</br>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</br>
-
-# 🔌 Programming Languages
+# 🔌 Programming languages and Frameworks
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
             <td align="center">
-                <img src="./assets/icons/html.png" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/html.png" alt="icon" width="35" height="35" />
                 <br>HTML
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/angular.png" alt="icon" width="55" height="35" />
                 <br>Angular
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/react.png" alt="icon" width="40" height="35" />
                 <br>React
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/net-mvc.png" alt="icon" width="50" height="35" />
                 <br>.NET MVC
             </td>
             <td align="center">
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="./assets/icons/javascript.png" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/javascript.png" alt="icon" width="35" height="35" />
                 <br>JavaScript
             </td>
             <td align="center">
-                <img src="./assets/icons/typescript.png" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/typescript.png" alt="icon" width="35" height="35" />
                 <br>TypeScript
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/jquery.png" alt="icon" width="55" height="35" />
                 <br>jQuery
-            </td>
-            <td align="center">
-            </td>
-            <td align="center">
             </td>
         </tr>
         <tr>
             <td align="center">
-                <img src="./assets/icons/css.png" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/css.png" alt="icon" width="35" height="35" />
                 <br>CSS
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/sass.png" alt="icon" width="35" height="35" />
                 <br>SASS
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
-                <br>SCSS
-            </td>
-            <td align="center">
-            </td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="./assets/icons/python.png" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/python.png" alt="icon" width="35" height="35" />
                 <br>Python
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/c-sharp.png" alt="icon" width="35" height="35" />
                 <br>C#
             </td>
             <td align="center">
+                <img src="./assets/icons/dot-net-framework.png" alt="icon" width="35" height="35" />
+                <br>.NET Framework
             </td>
             <td align="center">
-            </td>
-            <td align="center">
+                <img src="./assets/icons/dot-net-core.png" alt="icon" width="35" height="35" />
+                <br>.NET Core
             </td>
         </tr>
     </table>
@@ -113,46 +109,46 @@ Let's connect to discuss technology trends, share insights, and explore potentia
     <table align="center">
         <tr>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/git.png" alt="icon" width="35" height="35" />
                 <br>Git
             </td>
              <td align="center">
-                <img src="./assets/icons/github.png" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/github.png" alt="icon" width="35" height="35" />
                 <br>Github
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/bitbucket.png" alt="icon" width="35" height="35" />
                 <br>BitBucket
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/tfs.png" alt="icon" width="35" height="35" />
                 <br>TFS
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/redis.png" alt="icon" width="35" height="35" />
                 <br>Redis
+            </td>
+            <td align="center">
+                <img src="./assets/icons/entity-framework.png" alt="icon" width="35" height="35" />
+                <br>EF Core
+            </td>
+            <td align="center">
+                <img src="./assets/icons/ms-sql-server.png" alt="icon" width="35" height="35" />
+                <br>MSSQL Server
             </td>
         </tr>
         <tr>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
-                <br>EF Core
-            </td>
-            <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
-                <br>MSSQL Server
-            </td>
-            <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/mongo-db.png" alt="icon" width="35" height="35" />
                 <br>Mongo DB
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/aws-redshift.png" alt="icon" width="35" height="35" />
                 <br>Redshift
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
-                <br>
+                <img src="./assets/icons/docker.png" alt="icon" width="35" height="35" />
+                <br>Docker
             </td>
         </tr>
     </table>
@@ -166,15 +162,15 @@ Let's connect to discuss technology trends, share insights, and explore potentia
     <table align="center" style="border: none !important;">
         <tr>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/azure.png" alt="icon" width="35" height="35" />
                 <br>Azure
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/aws.png" alt="icon" width="35" height="35" />
                 <br>AWS
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/google-cloud-platform.png" alt="icon" width="35" height="35" />
                 <br>GCP
             </td>
         </tr>
@@ -189,15 +185,15 @@ Let's connect to discuss technology trends, share insights, and explore potentia
     <table align="center">
         <tr>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/visual-studio.png" alt="icon" width="35" height="35" />
                 <br>Visual Studio
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/visual-studio-code.png" alt="icon" width="35" height="35" />
                 <br>Visual Studio Code
             </td>
             <td align="center">
-                <img src="" alt="icon" width="65" height="65" />
+                <img src="./assets/icons/jetbrains-rider.png" alt="icon" width="35" height="35" />
                 <br>Rider
             </td>
         </tr>
@@ -211,6 +207,9 @@ Let's connect to discuss technology trends, share insights, and explore potentia
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
+            <td align="center">
+                <a href="https://logowik.com/">Icons by LogoWik</a>
+            </td>
             <td align="center">
                 <a href="https://www.freepik.com/icon/github_5968866#fromView=keyword&page=1&position=4&uuid=877296c1-912a-4a19-b162-a0d7531d3cf2">Icon by Freepik</a>
             </td>
@@ -232,12 +231,13 @@ Let's connect to discuss technology trends, share insights, and explore potentia
                 <a href="https://www.freepik.com/icon/python_5968350#fromView=search&page=1&position=8&uuid=294596ae-aead-4e49-a073-1bf397f29839">Icon by Freepik</a>
             </td>
             <td align="center">
+                <a href="https://www.freepik.com/icon/sass_5968358#fromView=search&page=1&position=12&uuid=24b2e946-c4b2-47a6-a919-d8818d626a52">Icon by Freepik</a>
             </td>
             <td align="center">
+                <a href="https://www.freepik.com/icon/c-sharp_6132221#fromView=search&page=1&position=0&uuid=b39868d7-c888-48e7-8640-f601c016c60c">Icon by Freepik</a>
             </td>
             <td align="center">
-            </td>
-            <td align="center">
+                <a href="https://www.freepik.com/icon/windows_13170416#fromView=search&page=1&position=28&uuid=0d69b63c-acef-4e2b-8f72-ef6af7a51bd4">Icon by Vector Stall</a>
             </td>
         </tr>
     </table>
