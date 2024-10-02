@@ -1,21 +1,21 @@
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2px;">
-    <img 
-        src="./assets/illustrations/animation-1.gif" 
-        width="400" />
-</div>
+<p align="center">
+  <img src="./assets/illustrations/animation-1.gif" alt="animation 1" width="400">
+</p>
 
 <br />
 
 # Hello! 👋 I am Mornanté Basson
 
-<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 5px;">
-    <img 
+<p align="left">
+  <img 
         src="https://komarev.com/ghpvc/?username=mornante&label=Profile%20views&color=0e75b6&style=flat" alt="mornante profile views" 
         height="20" />
     <a href="https://www.linkedin.com/in/mornante-basson/">
-        <img alt="GitHub" src="https://img.shields.io/badge/linkedin-mornante basson-blue">
+        <img 
+            alt="GitHub" 
+            src="https://img.shields.io/badge/linkedin-mornante basson-blue" />
     </a>
-</div>
+</p>
 
 <br />
 
@@ -32,25 +32,25 @@ Let's connect to discuss technology trends, share insights, and explore potentia
 
 <br />
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2px;">
-    <img src="./assets/misc/snake.svg" width="1000">
-</div>
+<p align="center">
+  <img src="./assets/misc/snake.svg" width="1000">
+</p>
 
 <br /><br />
 
 # 📈 Stats for the nerds
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2px;">
-    <img 
+<p align="center">
+  <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mornante&show_icons=true&locale=en&layout=compact"
-        width="48%" />
-    <img 
+        width="49%" />
+    <img
         src="https://github-readme-stats.vercel.app/api?username=mornante&show_icons=true&locale=en"
-        style="width: 48%;">
+        style="width: 49%;">
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=mornante&"  
         style="width: 100%;">
-</div>
+</p>
 
 </br></br>
 
@@ -72,57 +72,76 @@ Let's connect to discuss technology trends, share insights, and explore potentia
 
 </br></br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <!-- Grid Box 1 -->
-    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
-        <h2 style="text-align: center;">Languages</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?perline=5&i=html,javascript,typescript,jquery,css,sass,python,cs,bootstrap,java" />
-        </a>
-    </div>
-    <!-- Grid Box 2 -->
-    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
-        <h2 style="text-align: center;">Frameworks</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?perline=5&i=dotnet,angular,react,flask,threejs" />
-        </a>
-    </div>
-    <!-- Grid Box 3 -->
-    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
-        <h2 style="text-align: center;">Tools</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?perline=5&i=visualstudio,vscode,rider,androidstudio,grafana,postman,sublime,docker,unity" />
-        </a>
-    </div>
-    <!-- Grid Box 4 -->
-    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
-        <h2 style="text-align: center;">Source Control</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?perline=5&i=git,github,bitbucket" />
-        </a>
-    </div>
-    <!-- Grid Box 5 -->
-    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
-        <h2 style="text-align: center;">Hosting</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?perline=5&i=azure,aws,gcp,netlify" />
-        </a>
-    </div>
-    <!-- Grid Box 5 -->
-    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
-        <h2 style="text-align: center;">Data Stores</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?perline=5&i=redis,mongo,sqlite" />
-        </a>
-    </div>
-    <!-- Grid Box 5 -->
-    <div style="width: 48%; display: flex; flex-direction: column; align-items: center;">
-        <h2 style="text-align: center;">IOT</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?perline=5&i=arduino,raspberrypi" />
-        </a>
-    </div>
-</div>
+
+
+<table border="0" align="center">
+<tr>
+<td>
+<h2 align="center" width="50%">Languages</h2>
+</td>
+<td>
+<h2 align="center" width="50%">Frameworks</h2>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?perline=5&i=html,javascript,typescript,jquery,css,sass,python,cs,bootstrap,java" />
+</a>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?perline=5&i=dotnet,angular,react,flask,threejs" />
+</td>
+</tr>
+<tr>
+<td>
+<h2 align="center" width="50%">Tools</h2>
+</td>
+<td>
+<h2 align="center" width="50%">Source Control</h2>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?perline=5&i=visualstudio,vscode,rider,androidstudio,grafana,postman,sublime,docker,unity" />
+</a>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?perline=5&i=git,github,bitbucket" />
+</td>
+</tr>
+<tr>
+<td>
+<h2 align="center" width="50%">Hosting</h2>
+</td>
+<td>
+<h2 align="center" width="50%">Data Stores</h2>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?perline=5&i=azure,aws,gcp,netlify" />
+</a>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?perline=5&i=redis,mongo,sqlite" />
+</td>
+</tr>
+<tr>
+<td>
+<h2 align="center" width="50%">IOT</h2>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?perline=5&i=arduino,raspberrypi" />
+</a>
+</td>
+</tr>
+</table>
 
 </br></br>
 
